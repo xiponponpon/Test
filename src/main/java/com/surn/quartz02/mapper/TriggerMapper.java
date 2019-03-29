@@ -23,4 +23,5 @@ public interface TriggerMapper {
      * @return
      */
     List<com.surn.quartz02.entity.Trigger> queryScheduleTriggerLst();
+    void s();
 }
